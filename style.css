@@ -1,0 +1,35 @@
+#comprar {
+    color: #304D63;
+    background: #F2D096;
+    border: none;
+    cursor: pointer;
+}
+
+#voltar {
+    color: white;
+    background: #304D63;
+    border: none;
+    cursor: pointer;
+}
+
+#camisa {
+    background: #B2E7E8;
+    border: none;
+    cursor: pointer;
+}
+
+#chinelo{   
+    background: #B2E7E8;
+    border: none;
+    cursor: pointer;
+}
+
+#jeans{    
+    background: #B2E7E8;
+    border: none;
+    cursor: pointer;
+}
+
+#lupa {
+    cursor: pointer;
+}
